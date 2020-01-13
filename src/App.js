@@ -1,5 +1,5 @@
 import React from 'react';
-import Forbidden from './components/forbidden/Forbidden'
+import {Forbidden} from './components/forbidden/Forbidden'
 function App() {
   return (
     <div>
