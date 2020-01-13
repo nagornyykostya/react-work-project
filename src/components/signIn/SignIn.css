@@ -1,0 +1,34 @@
+.signin-container {
+    margin: 200px 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.signin-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-email {
+    border: 1px black solid;
+    padding: 10px 15px;
+    margin: 10px;
+    width: 200px;
+}
+
+.button-submit {
+    border: 1px black solid;
+    margin-top: 40px;
+    padding: 10px 15px;
+    width: 75px
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
