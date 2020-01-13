@@ -1,0 +1,18 @@
+.forbidden-container {
+    margin: 200px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.forbidden-message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
